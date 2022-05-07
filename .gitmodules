@@ -19,3 +19,6 @@ url = https://github.com/yzqbooks/python-tutor.git
 [submodule "wangdoc"]
 path = wangdoc
 url = https://github.com/yzqbooks/wangdoc.git
+[submodule "cg-tutor"]
+path = cg-tutor
+url = https://github.com/yzqdev/cg-tutor.git
