@@ -1,0 +1,20 @@
+{
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [
+    "android-docs",
+    "cs-guide",
+    "git-tutor",
+    "linux-tutorial",
+    "node-tutor",
+    "python-tutor",
+    "wangdoc",
+    "node-playground"
+  ],
+  "version": "0.0.0",
+  "command": {
+    "run": {
+      "npmClient": "yarn"
+    }
+  }
+}

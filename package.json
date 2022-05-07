@@ -1,0 +1,40 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "android-docs",
+    "cs-guide",
+    "git-tutor",
+    "linux-tutorial",
+    "node-tutor",
+    "python-tutor",
+    "wangdoc",
+    "cg-tutor",
+    "hope-demo"
+  ],
+  "devDependencies": {
+    "lerna": "latest",
+    "cpx2": "latest"
+  },
+  "scripts": {
+    "build": "lerna run docs:build --parallel",
+    "dev": "lerna run docs:dev --parallel",
+    "cs-guide": "yarn workspace cs-guide docs:dev",
+    "cs-guide:build": "yarn workspace cs-guide docs:build",
+    "android": "yarn workspace android-docs docs:dev",
+    "android:build": "yarn workspace android-docs docs:build",
+    "git": "yarn workspace git-tutor docs:dev",
+    "git:build": "yarn workspace git-tutor docs:build",
+    "linux": "yarn workspace linux-tutorial docs:dev",
+    "linux:build": "yarn workspace linux-tutorial docs:build",
+    "node": "yarn workspace node-tutor docs:dev",
+    "node:build": "yarn workspace node-tutor docs:build",
+    "py": "yarn workspace python-tutor docs:dev",
+    "py:build": "yarn workspace python-tutor docs:build",
+    "wangdoc": "yarn workspace wangdoc docs:dev",
+    "wangdoc:build": "yarn workspace wangdoc docs:build",
+    "hope": "yarn workspace hope-demo docs:dev",
+    "cg": "yarn workspace cg-tutor docs:dev",
+    "cg:build": "yarn workspace cg-tutor docs:build"
+  }
+}
