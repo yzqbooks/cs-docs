@@ -10,6 +10,7 @@
     "python-tutor",
     "wangdoc",
     "cg-tutor",
+    "childhood",
     "hope-demo"
   ],
   "devDependencies": {
@@ -34,6 +35,7 @@
     "wangdoc": "yarn workspace wangdoc docs:dev",
     "wangdoc:build": "yarn workspace wangdoc docs:build",
     "hope": "yarn workspace hope-demo docs:dev",
+    "child": "yarn workspace childhood docs:dev",
     "cg": "yarn workspace cg-tutor docs:dev",
     "cg:build": "yarn workspace cg-tutor docs:build"
   }

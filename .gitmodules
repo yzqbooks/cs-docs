@@ -19,6 +19,13 @@ url = https://github.com/yzqbooks/python-tutor.git
 [submodule "wangdoc"]
 path = wangdoc
 url = https://github.com/yzqbooks/wangdoc.git
+[submodule "hope-demo"]
+path = hope-demo
+url = https://github.com/yzqbugs/hope-demo.git
+
 [submodule "cg-tutor"]
 path = cg-tutor
 url = https://github.com/yzqdev/cg-tutor.git
+[submodule "childhood"]
+	path = childhood
+	url = https://github.com/yzqbooks/childhood.git
