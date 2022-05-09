@@ -28,7 +28,7 @@
     "git:build": "yarn workspace git-tutor docs:build",
     "linux": "yarn workspace linux-tutorial docs:dev",
     "linux:build": "yarn workspace linux-tutorial docs:build",
-    "node": "yarn workspace node-tutor docs:dev",
+    "node:dev": "yarn workspace node-tutor docs:dev",
     "node:build": "yarn workspace node-tutor docs:build",
     "py": "yarn workspace python-tutor docs:dev",
     "py:build": "yarn workspace python-tutor docs:build",
