@@ -11,6 +11,7 @@
     "wangdoc",
     "cg-tutor",
     "childhood",
+    "baike",
     "hope-demo"
   ],
   "devDependencies": {
@@ -20,7 +21,7 @@
   "scripts": {
     "build": "lerna run docs:build --parallel",
     "dev": "lerna run docs:dev --parallel",
-    "cs-guide": "yarn workspace cs-guide docs:dev",
+    "cs-guide": "yarn workspace cs-guide docs:dev -p 9090",
     "cs-guide:build": "yarn workspace cs-guide docs:build",
     "android": "yarn workspace android-docs docs:dev",
     "android:build": "yarn workspace android-docs docs:build",
@@ -37,6 +38,7 @@
     "hope": "yarn workspace hope-demo docs:dev",
     "child": "yarn workspace childhood docs:dev",
     "cg": "yarn workspace cg-tutor docs:dev",
-    "cg:build": "yarn workspace cg-tutor docs:build"
+    "cg:build": "yarn workspace cg-tutor docs:build",
+    "baike": "yarn workspace baike docs:dev"
   }
 }

@@ -29,3 +29,6 @@ url = https://github.com/yzqdev/cg-tutor.git
 [submodule "childhood"]
 	path = childhood
 	url = https://github.com/yzqbooks/childhood.git
+[submodule "baike"]
+	path = baike
+	url = https://github.com/yzqdev/baike.git
