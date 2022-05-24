@@ -12,6 +12,7 @@
     "cg-tutor",
     "childhood",
     "baike",
+    "CS-Notes",
     "hope-demo"
   ],
   "devDependencies": {
@@ -39,6 +40,8 @@
     "child": "yarn workspace childhood docs:dev",
     "cg": "yarn workspace cg-tutor docs:dev",
     "cg:build": "yarn workspace cg-tutor docs:build",
-    "baike": "yarn workspace baike docs:dev"
+    "baike": "yarn workspace baike docs:dev",
+    "notes": "yarn workspace CS-Notes docs:dev",
+    "notes:build": "yarn workspace CS-Notes docs:build"
   }
 }

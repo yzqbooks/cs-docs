@@ -32,3 +32,6 @@ url = https://github.com/yzqdev/cg-tutor.git
 [submodule "baike"]
 	path = baike
 	url = https://github.com/yzqdev/baike.git
+[submodule "CS-Notes"]
+	path = CS-Notes
+	url = https://github.com/yzqbooks/CS-Notes.git
