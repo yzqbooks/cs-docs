@@ -5,9 +5,9 @@
     "android-docs",
     "cs-guide",
     "git-tutor",
-    "linux-tutorial",
+   
     "node-tutor",
-    "python-tutor",
+    
     "wangdoc",
     "cg-tutor",
     "childhood",
@@ -28,12 +28,10 @@
     "android:build": "yarn workspace android-docs docs:build",
     "git": "yarn workspace git-tutor docs:dev",
     "git:build": "yarn workspace git-tutor docs:build",
-    "linux": "yarn workspace linux-tutorial docs:dev",
-    "linux:build": "yarn workspace linux-tutorial docs:build",
+    
     "node:dev": "yarn workspace node-tutor docs:dev",
     "node:build": "yarn workspace node-tutor docs:build",
-    "py": "yarn workspace python-tutor docs:dev",
-    "py:build": "yarn workspace python-tutor docs:build",
+    
     "wangdoc": "yarn workspace wangdoc docs:dev",
     "wangdoc:build": "yarn workspace wangdoc docs:build",
     "hope": "yarn workspace hope-demo docs:dev",
