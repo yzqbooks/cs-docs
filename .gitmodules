@@ -7,15 +7,9 @@ url = https://github.com/yzqdev/android-docs.git
 [submodule "cs-guide"]
 path = cs-guide
 url = https://github.com/yzqdev/cs-guide.git
-[submodule "linux-tutorial"]
-path = linux-tutorial
-url = https://github.com/yzqbooks/linux-tutorial.git
 [submodule "git-tutor"]
 path = git-tutor
 url = https://github.com/yzqdev/git-tutor.git
-[submodule "python-tutor"]
-path = python-tutor
-url = https://github.com/yzqbooks/python-tutor.git
 [submodule "wangdoc"]
 path = wangdoc
 url = https://github.com/yzqbooks/wangdoc.git
