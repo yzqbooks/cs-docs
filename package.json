@@ -5,9 +5,8 @@
     "android-docs",
     "cs-guide",
     "git-tutor",
-   
+    "think-in-java",
     "node-tutor",
-    
     "wangdoc",
     "cg-tutor",
     "childhood",
@@ -28,10 +27,10 @@
     "android:build": "yarn workspace android-docs docs:build",
     "git": "yarn workspace git-tutor docs:dev",
     "git:build": "yarn workspace git-tutor docs:build",
-    
     "node:dev": "yarn workspace node-tutor docs:dev",
     "node:build": "yarn workspace node-tutor docs:build",
-    
+    "think": "yarn workspace think-in-java docs:dev",
+    "think:build": "yarn workspace think-in-java docs:build",
     "wangdoc": "yarn workspace wangdoc docs:dev",
     "wangdoc:build": "yarn workspace wangdoc docs:build",
     "hope": "yarn workspace hope-demo docs:dev",
