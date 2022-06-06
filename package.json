@@ -11,6 +11,7 @@
     "cg-tutor",
     "childhood",
     "baike",
+    "flutter-docs",
     "CS-Notes",
     "hope-demo"
   ],
@@ -39,6 +40,7 @@
     "cg:build": "yarn workspace cg-tutor docs:build",
     "baike": "yarn workspace baike docs:dev",
     "notes": "yarn workspace CS-Notes docs:dev",
-    "notes:build": "yarn workspace CS-Notes docs:build"
+    "notes:build": "yarn workspace CS-Notes docs:build",
+    "flu:dev": "yarn workspace flutter-docs docs:dev"
   }
 }

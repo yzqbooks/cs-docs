@@ -32,3 +32,6 @@ url = https://github.com/yzqdev/cg-tutor.git
 [submodule "think-in-java"]
 	path = think-in-java
 	url = https://github.com/yzqbooks/think-in-java.git
+[submodule "flutter-docs"]
+	path = flutter-docs
+	url = https://github.com/yzqbooks/flutter-docs.git
