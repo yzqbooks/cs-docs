@@ -41,6 +41,7 @@
     "baike": "yarn workspace baike docs:dev",
     "notes": "yarn workspace CS-Notes docs:dev",
     "notes:build": "yarn workspace CS-Notes docs:build",
-    "flu:dev": "yarn workspace flutter-docs docs:dev"
+    "flu:dev": "yarn workspace flutter-docs docs:dev",
+    "flu:build": "yarn workspace flutter-docs docs:build"
   }
 }
