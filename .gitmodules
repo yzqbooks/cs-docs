@@ -1,6 +1,6 @@
-[submodule "node-tutor"]
-path = node-tutor
-url = https://github.com/yzqdev/node-tutor.git
+[submodule "node-docs"]
+path = node-docs
+url = https://github.com/yzqdev/node-docs.git
 [submodule "android-docs"]
 path = android-docs
 url = https://github.com/yzqdev/android-docs.git
@@ -10,9 +10,7 @@ url = https://github.com/yzqdev/cs-guide.git
 [submodule "git-tutor"]
 path = git-tutor
 url = https://github.com/yzqdev/git-tutor.git
-[submodule "wangdoc"]
-path = wangdoc
-url = https://github.com/yzqbooks/wangdoc.git
+ 
 [submodule "hope-demo"]
 path = hope-demo
 url = https://github.com/yzqbugs/hope-demo.git
@@ -26,12 +24,5 @@ url = https://github.com/yzqdev/cg-tutor.git
 [submodule "baike"]
 	path = baike
 	url = https://github.com/yzqdev/baike.git
-[submodule "CS-Notes"]
-	path = CS-Notes
-	url = https://github.com/yzqbooks/CS-Notes.git
-[submodule "think-in-java"]
-	path = think-in-java
-	url = https://github.com/yzqbooks/think-in-java.git
-[submodule "flutter-docs"]
-	path = flutter-docs
-	url = https://github.com/yzqbooks/flutter-docs.git
+ 
+ 
