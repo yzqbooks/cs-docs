@@ -24,5 +24,6 @@ url = https://github.com/yzqdev/cg-tutor.git
 [submodule "baike"]
 	path = baike
 	url = https://github.com/yzqdev/baike.git
- 
- 
+[submodule "cs-tips"]
+	path = cs-tips
+	url = https://github.com/yzqdev/cs-tips.git

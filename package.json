@@ -15,9 +15,7 @@
     "CS-Notes",
     "hope-demo"
   ],
-  
   "scripts": {
-     
     "cs-guide": "pnpm -C cs-guide docs:dev -p 9090",
     "cs-guide:build": "pnpm -C cs-guide docs:build",
     "android": "pnpm -C android-docs docs:dev",
@@ -30,14 +28,15 @@
     "think:build": "pnpm -C think-in-java docs:build",
     "wangdoc": "pnpm -C wangdoc docs:dev",
     "wangdoc:build": "pnpm -C wangdoc docs:build",
-    "hope": "pnpm -C hope-demo docs:dev", "hope:build": "pnpm -C hope-demo docs:build",
+    "hope": "pnpm -C hope-demo docs:dev",
+    "hope:build": "pnpm -C hope-demo docs:build",
     "child": "pnpm -C childhood docs:dev",
     "cg": "pnpm -C cg-tutor docs:dev",
     "cg:build": "pnpm -C cg-tutor docs:build",
     "baike": "pnpm -C baike docs:dev",
     "notes": "pnpm -C CS-Notes docs:dev",
     "notes:build": "pnpm -C CS-Notes docs:build",
-    "flu:dev": "pnpm -C flutter-docs docs:dev",
-    "flu:build": "pnpm -C flutter-docs docs:build"
+    "tips:dev": "pnpm -C cs-tips docs:dev",
+    "tips:build": "pnpm -C cs-tips docs:build"
   }
 }
