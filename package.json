@@ -34,6 +34,7 @@
     "cg": "pnpm -C cg-tutor docs:dev",
     "cg:build": "pnpm -C cg-tutor docs:build",
     "baike": "pnpm -C baike docs:dev",
+    "flu": "pnpm -C flutter-docs docs:dev",
     "notes": "pnpm -C CS-Notes docs:dev",
     "notes:build": "pnpm -C CS-Notes docs:build",
     "tips:dev": "pnpm -C cs-tips docs:dev",

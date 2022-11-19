@@ -27,3 +27,9 @@ url = https://github.com/yzqdev/cg-tutor.git
 [submodule "cs-tips"]
 	path = cs-tips
 	url = https://github.com/yzqdev/cs-tips.git
+[submodule "wangdoc"]
+	path = wangdoc
+	url = https://github.com/yzqbooks/wangdoc.git
+	[submodule "flutter-docs"]
+	path = flutter-docs
+	url = https://github.com/yzqbooks/flutter-docs.git
