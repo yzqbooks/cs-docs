@@ -12,8 +12,7 @@
     "childhood",
     "baike",
     "flutter-docs",
-    "CS-Notes",
-    "hope-demo"
+    "CS-Notes"
   ],
   "scripts": {
     "cs-guide": "yarn workspace  cs-guide docs:dev -p 9090",
@@ -28,8 +27,6 @@
     "think:build": "yarn workspace  think-in-java docs:build",
     "wangdoc": "yarn workspace  wangdoc docs:dev",
     "wangdoc:build": "yarn workspace  wangdoc docs:build",
-    "hope": "yarn workspace  hope-demo docs:dev",
-    "hope:build": "yarn workspace  hope-demo docs:build",
     "child": "yarn workspace  childhood docs:dev",
     "cg": "yarn workspace  cg-tutor docs:dev",
     "cg:build": "yarn workspace  cg-tutor docs:build",
